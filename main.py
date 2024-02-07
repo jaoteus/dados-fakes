@@ -1,4 +1,3 @@
-from time import sleep
 from faker import Faker
 import mysql.connector
 
